@@ -1,0 +1,8 @@
+arvores ajustadas
+endropia -
+
+modelo linear 
+coeficientes
+
+feature importance
+
